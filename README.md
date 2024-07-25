@@ -1,2 +1,2 @@
 # complaints-level
-Get level of each complaint categorization
+**qms-complaints-level** is an AWS Lambda function designed to get level of each complaint categorization
